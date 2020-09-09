@@ -5,8 +5,6 @@
 uint32_t max(uint32_t, uint32_t);
 
 int main() {
-    printf("What year is it?\n");
-
     uint32_t i, h;
     i = 0;
     h = 100;
