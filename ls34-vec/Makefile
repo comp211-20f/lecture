@@ -1,4 +1,4 @@
-project 			 := lec16-vec
+project 			 := ls34-vec
 
 # Variables for path s of source, header, and test files
 inc_dir 			 := ./include

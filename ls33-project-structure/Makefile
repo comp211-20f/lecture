@@ -1,4 +1,4 @@
-project 			 := lec15-testing
+project 			 := ls33-project-structure
 
 # Variables for path s of source, header, and test files
 inc_dir 			 := ./include
